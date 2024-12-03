@@ -30,7 +30,7 @@ To use this 404 error page, simply open the `index.html` file in a web browser.
 
 ## Example
 
-![404 Error Page](./src/viedo.mp4)
+![404 Error Page](./src/viedo.gif)
 
 ## License
 
